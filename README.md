@@ -1,6 +1,6 @@
 # Deep Learning from Scratch 5
 
-![](cover.jpeg)
+![](./cover.jpeg)
 
 ## 1. 목표
 
