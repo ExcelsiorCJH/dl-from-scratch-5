@@ -13,7 +13,7 @@
 | Chapter       | Notebook                                                     |
 | :------------ | ------------------------------------------------------------ |
 | 01. 정규 분포 | [01-normal.ipynb](https://github.com/ExcelsiorCJH/dl-from-scratch-5/blob/main/notebooks/01-normal.ipynb) |
-|               |                                                              |
+| 02. 최대 우도 추정 | [02-mle.ipynb](https://github.com/ExcelsiorCJH/dl-from-scratch-5/blob/main/notebooks/02-mle.ipynb) |
 |               |                                                              |
 |               |                                                              |
 
