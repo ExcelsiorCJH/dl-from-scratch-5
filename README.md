@@ -14,8 +14,8 @@
 | :------------ | ------------------------------------------------------------ |
 | 01. 정규 분포 | [01-normal.ipynb](https://github.com/ExcelsiorCJH/dl-from-scratch-5/blob/main/notebooks/01-normal.ipynb) |
 | 02. 최대 우도 추정 | [02-mle.ipynb](https://github.com/ExcelsiorCJH/dl-from-scratch-5/blob/main/notebooks/02-mle.ipynb) |
-|               |                                                              |
-|               |                                                              |
+| 03. 다변량 정규 분포 | [03-multi_normal.ipynb](https://github.com/ExcelsiorCJH/dl-from-scratch-5/blob/main/notebooks/03-multi_normal.ipynb) |
+| 04. 가우시안 혼합 모델 | [04-gmm.ipynb](https://github.com/ExcelsiorCJH/dl-from-scratch-5/blob/main/notebooks/04-gmm.ipynb) |
 
 
 
