@@ -277,4 +277,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Data
+data/*
+!data/.gitkeep
+
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,visualstudiocode,linux,macos,windows
