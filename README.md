@@ -20,6 +20,7 @@
 | 07. Variational AutoEncoder(VAE) | [07-vae.ipynb](https://github.com/ExcelsiorCJH/dl-from-scratch-5/blob/main/notebooks/07-vae.ipynb) |
 | 09. Diffusion Model | [09-diffusion.ipynb](https://github.com/ExcelsiorCJH/dl-from-scratch-5/blob/main/notebooks/09-diffusion.ipynb) |
 | 10. Conditional Diffusion Model | [10-conditional-diffusion.ipynb](https://github.com/ExcelsiorCJH/dl-from-scratch-5/blob/main/notebooks/10-diffusion2.ipynb) |
+| 11. Stable Diffusion | [11-stable-diffusion.ipynb](https://github.com/ExcelsiorCJH/dl-from-scratch-5/blob/main/notebooks/11-stable_diffusion.ipynb) |
 
 
 
